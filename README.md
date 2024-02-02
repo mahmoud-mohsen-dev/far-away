@@ -6,7 +6,7 @@
 
 ## Try it Live!
 
-Check out the live app [Far Away]()
+Check out the live app [Far Away](https://far-away-demo.vercel.app/)
 
 ## How to Use
 
@@ -26,7 +26,7 @@ Check out the live app [Far Away]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/far-away.git
     ```
 
 2. Navigate to the Project Directory:
